@@ -27,6 +27,7 @@ Escribir sobre el contexto de su solucion
   disponibilidad de habitaciones y estado de los servicios.
   
 -Experiencia de Usuario (UX) y Diseño Visual: Diseñar una interfaz de usuario atractiva y fácil de usar que refleje la marca y la imagen del Hotel Cocolon.
+
 -Pruebas y Mantenimiento: Realizar pruebas exhaustivas para asegurar la funcionalidad y estabilidad de la aplicación antes de su lanzamiento.
 
 
