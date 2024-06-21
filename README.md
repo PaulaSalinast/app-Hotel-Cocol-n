@@ -4,7 +4,7 @@
 El Hotel Cocolon es un establecimiento de lujo ubicado en un destino turístico popular, conocido por sus altos estándares de servicio y comodidades exclusivas.
 
 ## Modelo relacional
--Adjuntar modelo
+
 -Habitaciones: Detalles de cada habitación, como tipo, capacidad, precios y disponibilidad.
 
 -Huéspedes: Información personal de los huéspedes, historial de reservas y preferencias.
@@ -16,7 +16,6 @@ El Hotel Cocolon es un establecimiento de lujo ubicado en un destino turístico 
 -Personal: Información sobre los empleados del hotel, roles y asignaciones.
 
 ## Desarollo de propuesta 
--Escribir sobre la solucion a realizar.
 
 -Reserva de Habitaciones y Gestión de Huéspedes: Desarrollar un sistema de reserva intuitivo que permita a los huéspedes seleccionar habitaciones según sus preferencias y necesidades.
 
